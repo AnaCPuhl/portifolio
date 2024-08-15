@@ -1,0 +1,19 @@
+body {
+    font-family: cursive;
+}
+
+.container {
+    text-align: center;
+}
+
+.container a {
+    background-color: rgb(110, 111, 178);
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.container a:hover {
+    background-color: rgb(102, 104, 164);
+}
